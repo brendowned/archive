@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+
+<head>
+    <link rel="shortcut icon" href="faviconn.ico" />
+    <meta charset="utf-8">
+    <title>Synth</title>
+    <style type="text/css">
+        body {
+            color: aqua;
+            text-align: center;
+            width: 60%;
+            margin-left: 20%;
+            margin-right: 20%;
+            background-image: url(../../images/heu3tz3wxk6z.jpg);
+            background-size: cover;
+            background-position: bottom;
+            background-attachment: fixed;
+            font-size: 30px;
+            text-shadow: 2px 2px #FF0000;
+
+        }
+
+        .header {
+            text-align: center;
+            font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+            font-size: 50px;
+            background-color: #3A0000;
+            background-image: url(../../gif/ert.gif);
+            background-position: center;
+            background-size: cover;
+            color: blue;
+        }
+
+        #foot {
+
+            position: absolute;
+            /*bottom:0px; */
+            text-align: center;
+            width: 100%;
+  <!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+
+<body>
+    
+</body>
+</html>
+          height: 30px;
+            font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+
+
+        }
+
+        a {
+            color: aqua;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header class="header">SynthWave</header>
+    Synthwave is a primarily 1980's subgenre of Vaporwave, sometimes known as Outrun. This style can be recognized from it's iconic use of lasers, grids, neon colors, and popular 1980's cars.<br>
+    <img src="../../gif/ioio.gif" width="300" height="300" alt="" /><br>
+    <img src="../../gif/ererf.gif" width="300" height="300" alt="" /><br>
+    <img src="../../gif/rtgr.gif" width="300" height="300" alt="" /><br>
+    <img src="../../gif/m8b86oZh0f1r2ni29o1_500.gif" width="300" height="400" alt="" /><br><br>
+    <br>
+    <br>
+
+    <img src="../../gif/tiktuy.gif" width="300" height="100" alt="" /><br><br>
+    <br><br>
+    <img src="../../gif/m5mzh2fv9q1rqo0igo1_250.gif" width="250" height="140" alt="" /><br>
+    <br>
+    <img src="../../gif/trrt.gif" width="200" height="313" alt="" />
+    <br>
+    <!-- SCM Music Player http://scmplayer.co -->
+    <script type="text/javascript" src="http://scmplayer.co/script.js" data-config="{'skin':'http://static.tumblr.com/su8juwr/1ETmynm3j/cora____opreto.css','volume':73,'autoplay':true,'shuffle':true,'repeat':1,'placement':'bottom','showplaylist':false,'playlist':[{'title':'','url':'https://www.youtube.com/watch?v=kyTvMOXfaUA'},{'title':'','url':'https://www.youtube.com/watch?v=RQxDM2K-hd0'},{'title':'','url':'https://www.youtube.com/watch?v=_nukSHLOBuU'},{'title':'','url':'https://www.youtube.com/watch?v=hHxQQA3JVKc'},{'title':'','url':'https://www.youtube.com/watch?v=lEpJPrXiiYA'},{'title':'','url':'https://www.youtube.com/watch?v=Q8LjavsYORA'},{'title':'','url':'https://www.youtube.com/watch?v=RMjCxV7u8OA'},{'title':'','url':'https://www.youtube.com/watch?v=9imCm6CrNZ8'},{'title':'','url':'https://www.youtube.com/watch?v=MV_3Dpw-BRY'},{'title':'','url':'https://www.youtube.com/watch?v=mv1XUyRqcGU'},{'title':'','url':'https://www.youtube.com/watch?v=8GW6sLrK40k'}]}"></script>
+    <!-- SCM Music Player script end -->
+
+    <footer id="foot"> <a href="../index/index.html">Homepage</a> Copyright © 2017 Eve Wilby Irken </footer>
+</body>
+
+</html>
